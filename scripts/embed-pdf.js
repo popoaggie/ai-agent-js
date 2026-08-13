@@ -9,8 +9,8 @@ import {
   EMBEDDING_MODEL,
 } from "../lib/qdrant.js";
 
-const PDF_PATH = "data/python-book.pdf";
-const CHUNK_SIZE = 1000;
+const PDF_PATH = "data/TAIWAN city_RAG.pdf";
+const CHUNK_SIZE = 300;
 const OVERLAP = 50;
 const BATCH_SIZE = 100;
 
