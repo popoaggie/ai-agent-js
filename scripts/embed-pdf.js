@@ -10,7 +10,7 @@ import {
 } from "../lib/qdrant.js";
 
 const PDF_PATH = "data/TAIWAN city_RAG.pdf";
-const CHUNK_SIZE = 300;
+const CHUNK_SIZE = 120;
 const OVERLAP = 50;
 const BATCH_SIZE = 100;
 
