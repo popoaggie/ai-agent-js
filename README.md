@@ -149,6 +149,7 @@ AI 回答：
 
 --------------------
 HOMEWORK 3
+在3.4-openai-api-with-memory22的記事本
 
 -------------------
 HOMEWORK 4
